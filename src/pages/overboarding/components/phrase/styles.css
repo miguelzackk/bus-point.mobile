@@ -1,0 +1,13 @@
+.phrase{
+    font: 600 34px "Poppins";
+    text-align: center;
+
+}
+.phrase-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+
+}
