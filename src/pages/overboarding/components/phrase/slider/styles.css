@@ -1,0 +1,20 @@
+.slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+
+}
+.actual-slide{
+    width: 16px;
+    height: 8px;
+    background-color: #569FE5;
+    border-radius: 16px;
+}
+.next-slide{
+    width: 37px;
+    height: 8px;
+    background-color: #D0D0D0;
+    border-radius: 16px;
+
+}
