@@ -1,6 +1,6 @@
 # BusPoint Mobile
 
-Este projeto foi cirado como uma apresentação do protótipo da BusPoint, um aplicativo despertdor de onibus.
+Este projeto foi cirado como uma apresentação do protótipo da BusPoint.
 Vamos mostrar as dependencias que utilizamos, as ferramentas, e outras coisas.
 
 Projeto cirado com [Create React App](https://github.com/facebook/create-react-app).
